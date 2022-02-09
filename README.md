@@ -44,4 +44,5 @@ driver.get("https://www.youtube.com/watch?v=lAPAO3qK3_w") # URL 주소 입력
 2. 데이터 수집 항목 
 
 * 아이디, 댓글 내용
+
   ![image](https://user-images.githubusercontent.com/77731783/153235845-01e2f4d1-c6df-4cd7-b763-cee68a515c47.png)
