@@ -8,24 +8,35 @@ get_post_info(keyword, start_date, end_date, pages)
 ```
 
 2. 데이터 수집 항목 
-* 
 
-
-3. 데이터 수집
-
-
-
+* 게시글 내용
+  * 키워드에 해당하는 블로그 URL
+  * 블로그 제목
+  * 블로그 작성자 아이디
+  * 블로그 작성자 닉네임
+  * 블로그 게시일
+  * 페이지 본 횟수
+  * 좋아요 수
+  * 싫어요 수
+  * 블로그 게시글 내용
+  * 팔로우 유저 수 
+  * 유저 미디어 수 
+* 댓글 내용
+  * 작성자 닉네임
+  * 댓글 작성일
+  * 댓글 내용
+  * 좋아요 수 
 
 
 ## 2. Naver_Kin
 
 1. HOW TO USE
 
-"""
+```
 get_post_info(keyword, start_date, end_date, pages)
-"""
+```
 
-2. 데이터 수집
+2. 데이터 수집 항목
 
 * 키워드에 해당하는 지식인 질문 URL 
 * 요약문
@@ -38,9 +49,11 @@ get_post_info(keyword, start_date, end_date, pages)
 ## 3. Youtube
 
 1. HOW TO USE
-"""
-get_post_info(keyword, start_date, end_date, pages)
-"""
+```
+driver.get("https://www.youtube.com/watch?v=lAPAO3qK3_w") # URL 주소 입력 
+```
 
-1. 데이터 수집 항목 
-2. 데이터 수집
+2. 데이터 수집 항목 
+
+* 아이디
+* 댓글 내용
