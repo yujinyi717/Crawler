@@ -21,6 +21,9 @@ get_post_info(keyword, start_date, end_date, pages)
   * 블로그 게시글 내용
   * 팔로우 유저 수 
   * 유저 미디어 수 
+![image](https://user-images.githubusercontent.com/77731783/153236100-7fa4e4cd-ba35-40d4-8576-d6aa295772b3.png)
+
+ 
 * 댓글 내용
   * 작성자 닉네임
   * 댓글 작성일
