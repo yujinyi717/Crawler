@@ -3,7 +3,9 @@
 ## 1. Naver_Blog
 
 1. HOW TO USE
-"""get_post_info(keyword, start_date, end_date, pages)"""
+"""
+get_post_info(keyword, start_date, end_date, pages)
+"""
 
 2. 데이터 수집 항목 
 
