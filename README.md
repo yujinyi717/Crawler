@@ -5,6 +5,12 @@
 1. HOW TO USE
 ```
 get_post_info(keyword, start_date, end_date, pages)
+
+# num = int(input("몇 페이지 까지 크롤링 할까요? \n => "))
+# keyword = input("검색하실 키워드를 입력해주세요 \n =>")
+# start_date = input("검색 시작일을 입력해주세요 ex) 2000-01-01 \n =>")
+# end_date = input("검색 종료일을 입력해주세요 ex) 2000-01-01 \n =>")
+
 ```
 
 2. 데이터 수집 항목 
@@ -26,6 +32,11 @@ get_post_info(keyword, start_date, end_date, pages)
 
 ```
 get_post_info(keyword, start_date, end_date, pages)
+
+# num = int(input("몇 페이지 까지 크롤링 할까요? \n => "))
+# keyword = input("검색하실 키워드를 입력해주세요 \n =>")
+# start_date = input("검색 시작일을 입력해주세요 ex) 2000-01-01 \n =>")
+# end_date = input("검색 종료일을 입력해주세요 ex) 2000-01-01 \n =>")
 ```
 
 2. 데이터 수집 항목
