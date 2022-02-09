@@ -26,6 +26,7 @@ get_post_info(keyword, start_date, end_date, pages)
   * 댓글 작성일
   * 댓글 내용
   * 좋아요 수 
+![image](https://user-images.githubusercontent.com/77731783/153235736-a2a1c053-5187-4985-9ad9-ef2ff4e6cda4.png)
 
 
 ## 2. Naver_Kin
