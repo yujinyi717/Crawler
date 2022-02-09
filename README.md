@@ -45,6 +45,7 @@ get_post_info(keyword, start_date, end_date, pages)
 * 글 제목
 * 질문
 * 답변 
+![image](https://user-images.githubusercontent.com/77731783/153235931-2af0de31-a910-4800-92ab-0fc91f0a1494.png)
 
 
 ## 3. Youtube
@@ -58,3 +59,4 @@ driver.get("https://www.youtube.com/watch?v=lAPAO3qK3_w") # URL 주소 입력
 
 * 아이디
 * 댓글 내용
+![image](https://user-images.githubusercontent.com/77731783/153235845-01e2f4d1-c6df-4cd7-b763-cee68a515c47.png)
