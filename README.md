@@ -20,6 +20,7 @@ get_post_info(keyword, start_date, end_date, pages)
 ## 2. Naver_Kin
 
 1. HOW TO USE
+
 """
 get_post_info(keyword, start_date, end_date, pages)
 """
