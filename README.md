@@ -57,3 +57,15 @@ driver.get("https://www.youtube.com/watch?v=lAPAO3qK3_w") # URL 주소 입력
 * 아이디, 댓글 내용
 
   ![image](https://user-images.githubusercontent.com/77731783/153235845-01e2f4d1-c6df-4cd7-b763-cee68a515c47.png)
+  
+  
+## 4. Naver_Shopping
+
+1. HOW TO USE
+```
+driver.get("https://search.shopping.naver.com/catalog/29938164618?query=lg%20tv&NaPm=ct%3Dl1w5iim8%7Cci%3Dc809d139f2ae38d6cbb5fb2c91d2965c9ec4fbf7%7Ctr%3Dslsl%7Csn%3D95694%7Chk%3Dbaa6d0cf44172f61736be61218f8cbfb1baf16fa") # URL 주소 입력 
+```
+
+2. 데이터 수집 항목 
+
+* 리뷰 제목, 내용, 평점, 구매처, 닉네임, 작성일자
