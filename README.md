@@ -63,7 +63,7 @@ driver.get("https://www.youtube.com/watch?v=lAPAO3qK3_w") # URL 주소 입력
 
 1. HOW TO USE
 ```
-driver.get("https://search.shopping.naver.com/catalog/29938164618?query=lg%20tv&NaPm=ct%3Dl1w5iim8%7Cci%3Dc809d139f2ae38d6cbb5fb2c91d2965c9ec4fbf7%7Ctr%3Dslsl%7Csn%3D95694%7Chk%3Dbaa6d0cf44172f61736be61218f8cbfb1baf16fa") # URL 주소 입력 
+url ="https://search.shopping.naver.com/catalog/29938164618?query=lg%20tv&NaPm=ct%3Dl1w5iim8%7Cci%3Dc809d139f2ae38d6cbb5fb2c91d2965c9ec4fbf7%7Ctr%3Dslsl%7Csn%3D95694%7Chk%3Dbaa6d0cf44172f61736be61218f8cbfb1baf16fa" # URL 주소 입력 
 ```
 
 2. 데이터 수집 항목 
